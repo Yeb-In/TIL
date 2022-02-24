@@ -1,0 +1,1 @@
+origin : git 한테 remote add 해줘, 근데 그 이름은 origin이야.
